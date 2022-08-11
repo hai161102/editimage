@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="label_brush">Brush</string>
+    <string name="label_line">Line</string>
+    <string name="label_oval">Oval</string>
+    <string name="label_rectangle">Rectangle</string>
+</resources>
